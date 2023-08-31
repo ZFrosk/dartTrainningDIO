@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:meu_app/functions/if-calculadora.dart';
+import 'package:meu_app/functions/meu_app.dart';
 
 double lerConsoleDouble(String texto) {
   //SE O USUÁRIO SETAR ALGO QUE NÃO SEJA UM NÚMERO, IRÁ TER O RETORNO DE 0
